@@ -1,0 +1,17 @@
+com\webank\ai\fate\serving\adaptor\dataaccess\BatchTestFileAdapter.class
+com\webank\ai\fate\serving\adaptor\dataaccess\ParallelBatchToSingleFeatureAdaptor.class
+com\webank\ai\fate\serving\adaptor\dataaccess\DTest.class
+com\webank\ai\fate\serving\adaptor\dataaccess\MySingleHttpAdapter.class
+com\webank\ai\fate\serving\adaptor\dataaccess\ParallelBatchToSingleFeatureAdaptor$1.class
+com\webank\ai\fate\serving\adaptor\dataaccess\MockAdapter.class
+com\webank\ai\fate\serving\adaptor\dataaccess\MockBatchAdapter.class
+com\webank\ai\fate\serving\adaptor\dataaccess\BatchTestFilePickAdapter.class
+com\webank\ai\fate\serving\adaptor\dataaccess\MySingleTestFileAdapter.class
+com\webank\ai\fate\serving\adaptor\dataaccess\MyBatchTestFileAdapter.class
+com\webank\ai\fate\serving\adaptor\dataaccess\TestFileAdapter.class
+com\webank\ai\fate\serving\adaptor\dataaccess\HttpAdapter.class
+com\webank\ai\fate\serving\adaptor\dataaccess\HttpAdapterByHeader.class
+com\webank\ai\fate\serving\adaptor\dataaccess\AbstractBatchFeatureDataAdaptor.class
+com\webank\ai\fate\serving\adaptor\dataaccess\AbstractSingleFeatureDataAdaptor.class
+com\webank\ai\fate\serving\adaptor\dataaccess\TestFilePickAdapter.class
+com\webank\ai\fate\serving\adaptor\dataaccess\MyBatchHttpAdapter.class

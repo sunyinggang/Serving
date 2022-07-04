@@ -1,0 +1,16 @@
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\DTest.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\BatchTestFilePickAdapter.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\HttpAdapter.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\MockBatchAdapter.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\TestFilePickAdapter.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\HttpAdapterByHeader.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\AbstractSingleFeatureDataAdaptor.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\MyBatchHttpAdapter.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\MockAdapter.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\MySingleHttpAdapter.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\AbstractBatchFeatureDataAdaptor.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\MySingleTestFileAdapter.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\ParallelBatchToSingleFeatureAdaptor.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\BatchTestFileAdapter.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\MyBatchTestFileAdapter.java
+D:\MyCode\github\java\FATE-Serving-master\fate-serving-extension\src\main\java\com\webank\ai\fate\serving\adaptor\dataaccess\TestFileAdapter.java

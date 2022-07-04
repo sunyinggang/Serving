@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.webank.ai.fate.serving.Bootstrap",
+      "sourceType": "com.webank.ai.fate.serving.Bootstrap"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

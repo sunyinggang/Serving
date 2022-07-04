@@ -1,0 +1,10 @@
+com\webank\ai\fate\serving\bean\CommonServiceTest$2.class
+com\webank\ai\fate\serving\bean\InferenceTest.class
+com\webank\ai\fate\serving\bean\CommonServiceTest.class
+com\webank\ai\fate\serving\bean\PerformanceTest$1.class
+com\webank\ai\fate\serving\bean\InferenceClient.class
+com\webank\ai\fate\serving\bean\InferenceTest$1.class
+com\webank\ai\fate\serving\bean\ServingServerTest.class
+com\webank\ai\fate\serving\bean\CommonServiceTest$1.class
+com\webank\ai\fate\serving\cache\LettuceClientTest.class
+com\webank\ai\fate\serving\bean\PerformanceTest.class
